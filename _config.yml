@@ -1,7 +1,7 @@
 name: 'Soumik Ghosh'
 description: 'DevOps Engineer based in Blacksburg, VA'
 markdown: kramdown
-theme: jekyll-theme-midnight
+theme: jekyll-theme-minimal
 
 show_downloads: false
 google_analytics: ''
